@@ -7,6 +7,9 @@ flightKiosk::flightKiosk(QWidget *parent) :
 {
     ui->setupUi(this);
 
+    //    To enable the GUI to be properly created, 
+    //    the folder "trdx-resources" should be copied to the module "/usr/bin/" directory
+    
     QPixmap clouds("/usr/bin/trdx-resources/clouds-gray.jpg");
     QPixmap whiteLabel("/usr/bin/trdx-resources/white-bar.png");
     QPixmap topBar("/usr/bin/trdx-resources/top-bar.png");
