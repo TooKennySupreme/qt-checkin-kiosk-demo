@@ -22,10 +22,10 @@ FORMS    += flightkiosk.ui
 # deployment on Linux
 unix {
     target.path = /usr/bin/
-    trdx-resources.path = /usr/bin/trdx-resources/
+    #trdx-resources.path = /usr/bin/trdx-resources/
     trdx-resources.files = trdx-resources/*
     INSTALLS += target \
-             trdx-resources \
+             #trdx-resources \
 }
 
 DISTFILES += \
