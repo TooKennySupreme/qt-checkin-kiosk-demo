@@ -3,8 +3,7 @@ Description=Starts Qt Checkin Kiosk Demo
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/flightKiosk -platform eglfs -plugin tslib:/dev/input/event0
-Environment="QT_QPA_EGLFS_DISABLE_INPUT=1" "QT_QPA_EGLFS_HIDECURSOR=1" "export QT_QPA_EGLFS_FB=/dev/fb0"
+ExecStart=/usr/bin/qt-checkin-kiosk-demo.sh
 
 [Install]
 WantedBy=graphical.target
