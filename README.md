@@ -21,5 +21,6 @@ and launch the application with the desired plugin(eg. EGLFS):
 
     flightKiosk -platform eglfs
 
-[![video](https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQITUZKaFduYXlMNTA)](http://youtu.be/b6nqHyKfjVQ)
+Bellow is a video demostration of the application
 
+<a href="https://youtu.be/b6nqHyKfjVQ"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQITUZKaFduYXlMNTA"/></a>
