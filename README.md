@@ -5,7 +5,7 @@
 
 ## Overview
 
-Qt5 introduced a new feature which is the possibility to display multiple Qt applications in different screens. That feature is very useful in various types of application. With this project we are giving an example of a check-in kiosk in an ariport. The Check-In Kiosk Demo is intended to work together with the Flight Information Demo found here: https://github.com/giobauermeister/qt-flight-information-demo
+Qt5 introduced a new environment variable which can be set to display multiple Qt applications in different screens (framebuffers). That feature is very useful in various types of application. With this project we are giving an example of a check-in kiosk in an ariport. The Check-In Kiosk Demo is intended to work together with the Flight Information Demo found here: https://github.com/giobauermeister/qt-flight-information-demo
 
 ## Steps to run the demo
 
